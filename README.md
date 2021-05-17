@@ -20,3 +20,4 @@ Data of the Employee's:
 The Scanner class is used to get user input, and it is found in the   java.util    package. To use the Scanner class, create an object of the class and use any of the available methods found in the Scanner class documentation.
 
 ![Untitled2](https://user-images.githubusercontent.com/84003407/118430242-4ec77480-b6f1-11eb-8866-1aa208493b8b.png)
+
