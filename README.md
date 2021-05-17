@@ -13,3 +13,6 @@ Data of the Employee's:
   
   -> Designation
   
+  // Varaibles Declaration or Taking Requirements
+  
+  
