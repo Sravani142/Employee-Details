@@ -49,4 +49,17 @@ read  method is now defined as follows :
            System.out.println(" Salary:"+salary);
            System.out.println(" Designation:"+desig);
       }
+      
+//The Raise salary method is designed in business logic in order to raise the employee's salary by 1000, it also displays that the salary raised by 1000.
+
+->The syntax for this method is as follows :
+
+     void raise
+
+     {
+       sal = sal+1000;
+       System.out.println("Salary Raised............");
+     }
+      
+      
 
